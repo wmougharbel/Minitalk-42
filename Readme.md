@@ -1,3 +1,5 @@
+![](.extra/screen_minitalk.gif)
+
 <h1>Minitalk Project</h1>
 <h2>Overview</h2>
 
