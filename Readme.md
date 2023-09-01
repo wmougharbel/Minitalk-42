@@ -1,6 +1,6 @@
 ![](.extra/screen_minitalk.gif)
 
-<h1>Minitalk Project</h1>
+<h1>Minitalk</h1>
 <h2>Overview</h2>
 
 The Minitalk project is an exciting and hands-on project in the 42 curriculum designed to teach students about interprocess communication (IPC) using signals. In this project, students are tasked with creating a simple client-server communication system where one program (the client) sends a message to another program (the server) using signals. This project offers a practical introduction to low-level communication and signal handling.
